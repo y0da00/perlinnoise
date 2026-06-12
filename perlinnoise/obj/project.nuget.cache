@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n0PfhEn99vI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dartvader\\Documents\\projects\\c#\\perlinnoise\\perlinnoise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dartvader\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
